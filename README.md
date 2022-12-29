@@ -1,3 +1,3 @@
 ## aicode
 
-Chat App using OpenAi
+Chat App using OpenAI
