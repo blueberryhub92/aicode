@@ -1,3 +1,3 @@
-## aicode
+# aicode
 
-# Chat App using OpenAi
+## Chat App using OpenAi
